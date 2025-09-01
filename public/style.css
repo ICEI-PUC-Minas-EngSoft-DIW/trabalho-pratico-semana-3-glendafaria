@@ -1,3 +1,132 @@
-body {
-    background-color: aquamarine;
-}
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  header {
+    background: #0d47a1;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+  }
+  
+  header .logo {
+    font-weight: bold;
+    font-size: 22px;
+    color: #fff;
+  }
+  
+  nav.menu {
+    display: flex;
+    gap: 10px;
+  }
+  
+  nav.menu a {
+    text-decoration: none;
+    background: #1565c0;
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: #fff;
+  }
+  
+  main {
+    display: flex;
+    flex: 1;
+  }
+  
+  nav.sidebar {
+    width: 200px;
+    background: #e3f2fd;
+    padding: 15px;
+  }
+  
+  nav.sidebar ul {
+    list-style: none;
+  }
+  
+  nav.sidebar li {
+    margin: 8px 0;
+  }
+  
+  nav.sidebar a {
+    text-decoration: none;
+    display: block;
+    background: #bbdefb;
+    padding: 6px;
+    border-radius: 4px;
+    color: #0d47a1;
+  }
+  
+  section.content {
+    flex: 1;
+    padding: 15px;
+  }
+  
+  section.content h2 {
+    margin: 10px 0;
+    color: #0d47a1;
+  }
+  
+  .articles {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  article.news {
+    width: 200px;
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  article.news img {
+    width: 100%;
+    display: block;
+  }
+  
+  .subscribe-form {
+    margin-top: 20px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .subscribe-form input {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .subscribe-form button {
+    background: #0d47a1;
+    color: #fff;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  footer.footer {
+    background: #0d47a1;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+  }
+  

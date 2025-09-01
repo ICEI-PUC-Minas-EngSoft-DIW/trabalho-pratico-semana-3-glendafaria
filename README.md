@@ -8,17 +8,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Glenda Faria dos Santos
+- Matricula: 716623
+- Proposta de projeto escolhida: Site sobre o mundo Financeiro
+- Breve descrição sobre seu projeto: Um site de notícias rápidas sobre o mundo financeiro: dólar, bolsa, cripto e economia... Tudo em um lugar só, de forma prática e atualizada.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](public/image-2.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](public/image.png)
