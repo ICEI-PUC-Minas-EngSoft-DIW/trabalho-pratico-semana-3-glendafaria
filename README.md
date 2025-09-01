@@ -10,8 +10,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Glenda Faria dos Santos
 - Matricula: 716623
-- Proposta de projeto escolhida: Site sobre o mundo Financeiro
-- Breve descrição sobre seu projeto: Um site de notícias rápidas sobre o mundo financeiro: dólar, bolsa, cripto e economia... Tudo em um lugar só, de forma prática e atualizada.
+- Proposta de projeto escolhida: Site sobre o mundo de Harry Potter
+- Breve descrição sobre seu projeto: Um site sobre o mundo mágico dos livros de Harry Potter
 
 
 ## Print do(s) wireframe(s) criado
@@ -20,4 +20,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-![alt text](public/image.png)
+![alt text](image.png)
